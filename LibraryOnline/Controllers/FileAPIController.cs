@@ -12,6 +12,9 @@ namespace LibraryOnline.Controllers
 {
     public class LoginInfo
     {
+
+
+
         public string User { get; set; }
         public string Pass { get; set; }
     }
